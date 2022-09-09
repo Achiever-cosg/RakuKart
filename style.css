@@ -133,7 +133,7 @@ body{
 /* Home Page */
 
 #hero {
-    background-image: url("img/hero4.png");
+    background-image: url("img/hero4.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -194,7 +194,7 @@ body{
 
 
 #feature .fe-box h6{
-    display: inline-block;
+    display:inline-block;
     padding: 9ps 8px 6px 8px;
     line-height: 2;
     border-radius: 4px;
@@ -656,7 +656,7 @@ footer .copyright{
         padding: 80px 0 0 10px;
         transition: 0.3s;
     }
-    #navbar .active{
+    #navbar.active{
         right: 0px;
     }
     #navbar li{
@@ -690,7 +690,7 @@ footer .copyright{
         background-position: top 30% right 30%;
     }
     #feature{
-        justify-content: center; 
+        justify-content: center;
     }
 
     #feature .fe-box{
@@ -742,7 +742,7 @@ footer .copyright{
         justify-content: space-between;
     }
     #feature .fe-box{
-        width: 55px;
+        width: 155px;
         margin: 0 0 15px 0;
     }
 
