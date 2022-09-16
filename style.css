@@ -998,7 +998,7 @@ subtotal h3{
         transition: 0.3s;
     }
 
-    #navbar.active {
+    #navbar .active {
         right: 0px;
     }
 
